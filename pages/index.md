@@ -3,10 +3,10 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  These step-by-step guides provide the basic instructions to get content
+  published on our website. Our brand guidelines and design principles you can
+  found in our [digital
+  toolkit](https://digitaltoolkit.frontify.com/d/CDMuyoSSXL4y).
 ---
+
